@@ -1,0 +1,1 @@
+The AVR-DA MCU's high memory density and SRAM to flash ratio make the AVR-DA family attractive for both wireless and wired connected sensors nodes, as well as other stack intensive applications.Its easy-to-use development tools and comprehensive product portfolio enable customers to create optimal designs which reduce risk while lowering total system cost and time to market.

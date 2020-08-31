@@ -1,0 +1,1 @@
+Back in May 2020, UF was the first higher education institution in the U.S. to receive NVIDIA's (NASDAQ:NVDA) newest DGX A100 data center computing unit.UF's new $70 million system (which builds upon its existing HiPerGator supercomputer) should be up and running by early 2021 and will be able to handle 700 petaflops per second.

@@ -1,0 +1,1 @@
+24G SAS includes robust Forward Error Correction (FEC) that supports the broad range of enterprise-quality server/storage use cases while minimizing system costs.Its easy-to-use development tools and comprehensive product portfolio enable customers to create optimal designs which reduce risk while lowering total system cost and time to market.

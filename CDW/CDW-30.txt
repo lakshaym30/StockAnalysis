@@ -1,0 +1,1 @@
+If you want to learn more about discounted cash flow, the rationale behind this calculation can be read in detail in the Simply Wall St analysis model.Check out our latest analysis for CDW  We use what is known as a 2-stage model, which simply means we have two different periods of growth rates for the company's cash flows.

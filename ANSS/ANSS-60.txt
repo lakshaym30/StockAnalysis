@@ -1,0 +1,1 @@
+In this article we are going to estimate the intrinsic value of ANSYS, Inc. (NASDAQ:ANSS) by projecting its future cash flows and then discounting them to today's value.If you want to learn more about discounted cash flow, the rationale behind this calculation can be read in detail in the Simply Wall St analysis model.

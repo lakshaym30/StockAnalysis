@@ -1,0 +1,1 @@
+In this article we are going to estimate the intrinsic value of Charter Communications, Inc. (NASDAQ:CHTR) by taking the expected future cash flows and discounting them to their present value.View our latest analysis for Charter Communications  We use what is known as a 2-stage model, which simply means we have two different periods of growth rates for the company's cash flows.

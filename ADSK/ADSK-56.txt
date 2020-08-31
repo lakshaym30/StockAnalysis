@@ -1,0 +1,1 @@
+Using the most recent financial data, we'll take a look at whether the stock is fairly priced by projecting its future cash flows and then discounting them to today's value.Check out our latest analysis for Autodesk  We use what is known as a 2-stage model, which simply means we have two different periods of growth rates for the company's cash flows.

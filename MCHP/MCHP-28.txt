@@ -1,0 +1,1 @@
+"These adapters offer a built-in DRAM cache of 1 or 2 GB providing significant performance acceleration and lower power over previous generations and are ideal for 4K random read/write workloads."Its easy-to-use development tools and comprehensive product portfolio enable customers to create optimal designs which reduce risk while lowering total system cost and time to market.

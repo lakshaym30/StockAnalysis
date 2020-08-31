@@ -1,0 +1,1 @@
+It also features a high-speed stage to increase the system’s overall throughput and a high-speed computational architecture to process the streams of data from the multiple beamlets in real time.It detects defects overlooked by optical inspection systems in a fraction of the time that it takes single e-beam solutions for high-volume manufacturing to do so.

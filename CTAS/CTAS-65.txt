@@ -1,0 +1,1 @@
+If you want to learn more about discounted cash flow, the rationale behind this calculation can be read in detail in the Simply Wall St analysis model.See our latest analysis for Cintas  We are going to use a two-stage DCF model, which, as the name states, takes into account two stages of growth.

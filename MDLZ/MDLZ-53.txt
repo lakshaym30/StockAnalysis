@@ -1,0 +1,1 @@
+This IRS rule requires you to withdraw a specific minimum amount from any qualified accounts you have when you reach a certain age--previously it was 70 1/2, but beginning in 2020, it is 72.To calculate a specific RMD, you must divide your prior year's December 31st retirement account balance by a "distribution period" factor based on your age.

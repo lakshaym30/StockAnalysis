@@ -1,0 +1,1 @@
+Dexcom's system provided real-time glucose measurements, alerting the user if their blood sugar levels were too high or too low.Monitoring your glucose levels can "help delay or prevent diabetes complications such as heart attack, stroke, kidney disease, blindness, and amputation."

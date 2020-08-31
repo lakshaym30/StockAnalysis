@@ -1,0 +1,1 @@
+The S&P 500 (SNPINDEX:^SPX) ended Thursday down 0.38% after gross domestic product and unemployment numbers painted a picture of an economy struggling to recover.GDP declined at an annualized rate of 32.9% in the second quarter as stay-at-home orders ravaged the economy, and unemployment claims rose for the second straight week to 1.434 million.
